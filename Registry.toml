@@ -4,3 +4,4 @@ repo = "https://github.com/peterahrens/Peter.jl"
 description = "Peter's Registry"
 
 [packages]
+fedcd5e3-25fa-4517-9d96-0ffbee4aa29d = { name = "Tune", path = "T/Tune" }
