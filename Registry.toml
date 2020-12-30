@@ -1,0 +1,6 @@
+name = "Peter"
+uuid = "b8bfe48c-c90e-4a16-b2aa-2e3d5f1d3f92"
+repo = "https://github.com/peterahrens/Peter.jl"
+description = "Peter's Registry"
+
+[packages]
