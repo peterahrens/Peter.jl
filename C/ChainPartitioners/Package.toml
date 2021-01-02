@@ -1,0 +1,3 @@
+name = "ChainPartitioners"
+uuid = "7a2a9441-b812-4af5-b203-314e7cbd5d81"
+repo = "https://github.com/peterahrens/ChainPartitioners.jl.git"
