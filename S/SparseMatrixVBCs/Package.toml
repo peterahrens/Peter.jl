@@ -1,0 +1,3 @@
+name = "SparseMatrixVBCs"
+uuid = "aeb3fec4-309c-4280-99e1-50e023240a95"
+repo = "https://github.com/peterahrens/SparseMatrixVBCs.jl.git"
