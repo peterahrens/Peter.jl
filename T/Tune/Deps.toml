@@ -1,8 +1,10 @@
 [0]
 CpuId = "adafc99b-e345-5852-983c-f28acb93d879"
-Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
 Scratch = "6c6a2e73-6563-6170-7368-637461726353"
 UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
+
+["0-0.1.6"]
+Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
 
 ["0.1.1-0.1.4"]
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
@@ -15,3 +17,6 @@ BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
 
 ["0.1.5-0"]
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+["0.1.7-0"]
+MemoizedMethods = "2f808968-54ae-4603-8d72-6e67d20f0a1c"
