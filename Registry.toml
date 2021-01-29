@@ -6,6 +6,7 @@ description = "Peter's Registry"
 [packages]
 2f808968-54ae-4603-8d72-6e67d20f0a1c = { name = "MemoizedMethods", path = "M/MemoizedMethods" }
 7a2a9441-b812-4af5-b203-314e7cbd5d81 = { name = "ChainPartitioners", path = "C/ChainPartitioners" }
+83811839-e1fd-4dfd-90d4-61934971aaca = { name = "DiskCaches", path = "D/DiskCaches" }
 a606033f-14ee-4438-ae87-3b404a2b735d = { name = "DiskBackedDicts", path = "D/DiskBackedDicts" }
 aeb3fec4-309c-4280-99e1-50e023240a95 = { name = "SparseMatrixVBCs", path = "S/SparseMatrixVBCs" }
 fedcd5e3-25fa-4517-9d96-0ffbee4aa29d = { name = "Tune", path = "T/Tune" }
