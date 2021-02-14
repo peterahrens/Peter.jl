@@ -7,3 +7,6 @@ Suppressor = "fd094767-a336-5f1f-9728-57cf17d0bbfb"
 
 ["1-1.1.2"]
 Tune = "fedcd5e3-25fa-4517-9d96-0ffbee4aa29d"
+
+["1.1.4-1"]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
